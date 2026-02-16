@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scipy
+beautifulsoup4
+selenium
+webdriver-manager
+matplotlib
+seaborn
+japanize-matplotlib
